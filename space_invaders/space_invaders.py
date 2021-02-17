@@ -1,6 +1,6 @@
 #Author: Rosario Moscato
 #Title: New Space Invaders
-#Features: Playe Vs CPU, Explosions and Sounds
+#Features: Player Vs CPU, Explosions and Sounds
 
 import pygame
 from pygame import mixer
